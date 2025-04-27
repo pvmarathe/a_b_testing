@@ -4,16 +4,17 @@ This repository will have everything I learn about a/b testing
 
 Today my focus is gonna be on a Brick and Mortar retailer who also has an online presence. Let me call this retailer as PM.
 
-Business Problem/Context: Testing Product Page Layouts
+**Business Problem/Context:** Testing Product Page Layouts
 
-Goal: Increase the number of people adding items to the cart
+**Goal:** Increase the number of people adding items to the cart**
 
-Version A: Current Product Page (standard photos + basic description)
-Version B: Enhanced Product Page (more photos, 360 degree view, customer video)
+**Version A:** Current Product Page (standard photos + basic description)
 
-Metric: Add to cart rate
+**Version B:** Enhanced Product Page (more photos, 360 degree view, customer video)
 
-Solution:
+**Metric:** Add to cart rate
+
+**Solution:**
 
 | Step  | What to do| Output|
 | ------| ------------- |------------  |
